@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("Github0309 Test");
         //Yes. Success to push to remote repository!!! confirm!!!
+
+        // Great. I update your change!! in my local pc.
         
     }
 }
