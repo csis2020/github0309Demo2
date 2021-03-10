@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         //Yes. Success to push to remote repository!!! confirm!!!
 
         // Great. I update your change!! in my local pc.
+        //Add 3rd comment from remote repository.
         
     }
 }
